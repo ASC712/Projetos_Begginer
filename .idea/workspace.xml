@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="279f5e4c-abc5-4d05-8298-d8cd01c7feaa" name="Changes" comment="" />
+    <list default="true" id="279f5e4c-abc5-4d05-8298-d8cd01c7feaa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/wspycharm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/App Delivery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora IMC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora Temp. Carne.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculadora idade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tabuada.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
